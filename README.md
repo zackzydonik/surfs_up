@@ -10,7 +10,11 @@ The purpose of this analysis was to analyze temperature trends in Oahu in June a
 ## Results
 - The summary statistics for June are shown in the following table:
 
+![image_name](https://github.com/zackzydonik/surfs_up/blob/b39c448d8cb5e194913fca735966410065667717/June%20Temps.png)
+
 - The summary statistics for December are shown in the following table:
+
+![image_name](https://github.com/zackzydonik/surfs_up/blob/b39c448d8cb5e194913fca735966410065667717/December%20Temps.png)
 
 - The average temperatures for June and December are 74.9 °F and 71.0 °F, respectively.
 
